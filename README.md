@@ -1,4 +1,4 @@
-# Whitakers Words Desktop Translator
+# Whitakers Words (Latin Desktop Translation App)
 I made this for my girlfriend who has to do a lot of Latin translating.
 
 ## Splash Screen
