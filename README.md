@@ -2,7 +2,7 @@
 I made this for my girlfriend who has to do a lot of Latin translating. It can be compiled for Windows, Mac, or Linux.
 
 ## Splash Screen
-![Splash screen](screenshots/splash.png)
+![Splash screen](docs/screenshots/splash.png)
 
 ## Translation screen
-![Translation screen](screenshots/definition.png)
+![Translation screen](docs/screenshots/definition.png)
