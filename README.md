@@ -1,4 +1,4 @@
-# Whitakers Words (Latin Desktop Translation App)
+# Whitaker's Words (Latin Desktop Translation App)
 I made this for my girlfriend who has to do a lot of Latin translating. It can be compiled for Windows, Mac, or Linux.
 
 ## Splash Screen
