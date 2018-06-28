@@ -1,16 +1,16 @@
 {
-    "name": "WhitakersWords",
-    "description": "A basic Latin translator",
-    "version": "0.0.4",
-    "main": "index.html",
-    "devDependencies": {
-        "nwjs-builder-phoenix": "^1.14.6"
-    },
-    "build": {
-        "nwVersion": "0.14.7"
-    },
-    "scripts": {
-        "dist": "build --tasks win-x64,mac-x64 --mirror https://dl.nwjs.io/ .",
-        "start": "run --x86 --mirror https://dl.nwjs.io/ ."
-    }
+  "name": "WhitakersWords",
+  "description": "A basic Latin translator",
+  "version": "0.0.5",
+  "main": "index.html",
+  "devDependencies": {
+    "nwjs-builder-phoenix": "^1.14.6"
+  },
+  "build": {
+    "nwVersion": "0.14.7"
+  },
+  "scripts": {
+    "dist": "build --tasks win-x64,mac-x64 --mirror https://dl.nwjs.io/ .",
+    "start": "run --x86 --mirror https://dl.nwjs.io/ ."
+  }
 }
